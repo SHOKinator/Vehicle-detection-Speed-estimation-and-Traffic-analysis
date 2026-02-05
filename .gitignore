@@ -1,0 +1,16 @@
+# venv
+venv/
+myenv/
+.env/
+
+# python
+__pycache__/
+*.pyc
+
+# outputs
+result/
+*.pt
+*.pth
+*.ckpt
+wandb/
+data/
